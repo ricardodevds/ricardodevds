@@ -1,16 +1,21 @@
-## Hi there 👋
+I'm Lucas, a Systems Development student from Brazil.
 
-<!--
-**ricardodevds/ricardodevds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionate about technology and software development.🌱 Currently learning HTML, CSS, JavaScript, Git, and GitHub.📱 Building projects focused on solving real-world problems, including an app to improve the daily workflow of school monitors.🚀 Always looking to improve my skills and learn new technologies.
 
-Here are some ideas to get you started:
+🛠️ Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+HTML5
+
+CSS3
+
+JavaScript
+
+Git
+
+GitHub
+
+VS Code
+
+📫 Connect with me
+
+Feel free to explore my repositories and follow my journey as a developer!
